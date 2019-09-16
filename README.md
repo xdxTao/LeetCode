@@ -21,7 +21,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂**递归(0/14)** | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/%E9%A2%98%E8%A7%A3(titleSolution)/%E6%95%B0%E7%BB%84(array)">**数组(15/189)**</a> | 📂**哈希表(8/113)** | 📂**链表(2/36)** | 📂**数字(1/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(16/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(8/113)** </a> | 📂**链表(2/36)** | 📂**数字(1/142)**
 📂**双指针(6/57)** | 📂**字符串(3/138)** | 📂**二分查找(2/72)** | 📂**分治算法(2/18)**
 📂**动态规划(1/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(1/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
@@ -33,6 +33,6 @@
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
- 1 | 999 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/%E9%A2%98%E8%A7%A3(titleSolution)/%E6%95%B0%E7%BB%84(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/%E9%A2%98%E8%A7%A3(titleSolution)/%E6%95%B0%E7%BB%84(array)/999.%20%E8%BD%A6%E7%9A%84%E5%8F%AF%E7%94%A8%E6%8D%95%E8%8E%B7%E9%87%8F.md"> 999. 车的可用捕获量</a> | 2019年9月16日
-2 | 118 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/%E9%A2%98%E8%A7%A3(titleSolution)/%E6%95%B0%E7%BB%84(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/%E9%A2%98%E8%A7%A3(titleSolution)/%E6%95%B0%E7%BB%84(array)/118. 杨辉三角.md"> 118. 杨辉三角</a> | 2019年9月16日
-
+ 1 | 999 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/999. 车的可用捕获量.md"> 999. 车的可用捕获量</a> | 2019年9月16日
+2 | 118 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/118. 杨辉三角.md"> 118. 杨辉三角</a> | 2019年9月16日
+3 | 1002 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">哈希表</a> |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/1002. 查找常用字符.md"> 1002. 查找常用字符.md</a> | 2019年9月16日
