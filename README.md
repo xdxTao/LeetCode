@@ -21,7 +21,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂**递归(0/14)** | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(7/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(8/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**字符串(0/138)** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">7</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">8</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -40,3 +40,4 @@
 5 | 566 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/566. 重塑矩阵.md"> 566. 重塑矩阵</a> | 2019年9月17日
 6 | 1160 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">哈希表</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/1160. 拼写单词.md"> 1160. 拼写单词</a> | 2019年9月17日
 7 | 119 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/119. 杨辉三角 II.md"> 119. 杨辉三角 II</a> | 2019年9月18日
+8 | 985 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/985. 查询后的偶数和.md"> 985. 查询后的偶数和</a> | 2019年9月18日
