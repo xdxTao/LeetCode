@@ -21,7 +21,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂**递归(0/14)** | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(13/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(14/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**字符串(0/138)** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">13</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">14</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -46,3 +46,4 @@
 11 | 1089 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/1089. 复写零.md"> 1089. 复写零</a> | 2019年9月19日
 12 | 122 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/122. 买卖股票的最佳时机 II.md"> 122. 买卖股票的最佳时机 II</a> | 2019年9月19日
 13 | 485 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/485. 最大连续1的个数.md"> 485. 最大连续1的个数</a> | 2019年9月21日
+14 | 448 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/448. 找到所有数组中消失的数字.md"> 448. 找到所有数组中消失的数字</a> | 2019年9月22日
