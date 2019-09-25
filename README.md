@@ -14,7 +14,7 @@
 ### 💼标签
 
 
-📂<a herf="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈(1/50)</a> | 📂堆(0/34) | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(0/36)</a>
+<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">📂栈(2/50)</a> | 📂堆(0/34) | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(0/36)</a>
 :- | :- | :- | :-
 📂**位运算(0/34)** | 📂**树(0/118)** | 📂**深度优先算法(0/106)** | 📂**广度优先算法(0/51)**
 📂**并查集(0/27)** | 📂**图(0/34)** | 📂**设计(0/40)** | 📂**拓扑排序(0/5)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">15</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">16</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -48,3 +48,4 @@
 13 | 485 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/485. 最大连续1的个数.md"> 485. 最大连续1的个数</a> | 2019年9月21日
 14 | 448 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/448. 找到所有数组中消失的数字.md"> 448. 找到所有数组中消失的数字</a> | 2019年9月21日
 15 | 1021 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1021. 删除最外层的括号.md"> 1021. 删除最外层的括号</a> | 2019年9月25日
+16 | 1047 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1047. 删除字符串中的所有相邻重复项.md"> 1047. 删除字符串中的所有相邻重复项</a> | 2019年9月25日
