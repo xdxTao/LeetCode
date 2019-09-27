@@ -21,7 +21,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂**递归(0/14)** | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(14/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(15/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | 📂**链表(0/36)** | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**字符串(0/138)** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">17</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">18</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -50,3 +50,4 @@
 15 | 1021 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1021. 删除最外层的括号.md"> 1021. 删除最外层的括号</a> | 2019年9月25日
 16 | 1047 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1047. 删除字符串中的所有相邻重复项.md"> 1047. 删除字符串中的所有相邻重复项</a> | 2019年9月25日
 17 | 682 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/682. 棒球比赛.md"> 682. 棒球比赛</a> | 2019年9月25日
+18 | 766 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/766. 托普利茨矩阵.md"> 766. 托普利茨矩阵</a> | 2019年9月27日
