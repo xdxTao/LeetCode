@@ -21,7 +21,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂**递归(0/14)** | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(15/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(3/36)**</a>  | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(15/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(0/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(4/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**字符串(0/138)** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">21</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">22</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -54,3 +54,4 @@
 19 | 206 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/206. 反转链表.md"> 206. 反转链表</a> | 2019年9月27日
 20 | 876 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/876. 链表的中间结点.md"> 876. 链表的中间结点</a> | 2019年9月27日
 21 | 237 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/237. 删除链表中的节点.md"> 237. 删除链表中的节点</a> | 2019年10月12日
+22 | 21 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/21. 合并两个有序链表.md"> 21. 合并两个有序链表</a> | 2019年10月12日
