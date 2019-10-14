@@ -14,7 +14,7 @@
 ### 💼标签
 
 
-| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">📂栈(3/50)</a> | 📂堆(0/34) | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(0/36)</a>
+| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">📂栈(3/50)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">📂堆(1/34)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(0/36)</a>
 :- | :- | :- | :-
 📂**位运算(0/34)** | 📂**树(0/118)** | 📂**深度优先算法(0/106)** | 📂**广度优先算法(0/51)**
 📂**并查集(0/27)** | 📂**图(0/34)** | 📂**设计(0/40)** | 📂**拓扑排序(0/5)**
@@ -29,7 +29,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">25</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">26</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间
  :-: | :-: | :-: | :-: |:-:
@@ -58,3 +58,4 @@
 23 | 83 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/83. 删除排序链表中的重复元素.md"> 83. 删除排序链表中的重复元素</a> | 2019年10月12日
 24 | 234 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/链表(LinkedList)">链表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/链表(LinkedList)/234. 回文链表.md"> 234. 回文链表</a> | 2019年10月12日
 25 | 1137 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/1137. 第 N 个泰波那契数.md"> 1137. 第 N 个泰波那契数</a> | 2019年10月14日
+26 | 1046 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/1046. 最后一块石头的重量.md"> 1046. 最后一块石头的重量</a> | 2019年10月14日
