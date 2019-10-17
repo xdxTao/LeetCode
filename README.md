@@ -25,14 +25,14 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(16/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(2/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
-📂**双指针(0/57)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(16/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(2/138) </a>** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
+📂**双指针(0/57)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(16/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(3/138) </a>** | 📂**二分查找(0/72)** | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">32</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">33</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -67,4 +67,5 @@
 29 | 771 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/哈希表(Hashtable)/771. 宝石与石头.md"> 771. 宝石与石头</a> | 2019年10月15日 | 99.98% | 90.95%
 30 | 1108 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/1108. IP 地址无效化.md"> 1108. IP 地址无效化</a> | 2019年10月15日 | 100.00% | 100.00%
 31 | 535 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/哈希表(Hashtable)/535. TinyURL 的加密与解密.md"> 535. TinyURL 的加密与解密</a> | 2019年10月15日 | 100.00% | 67.10%
-32 | 859 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/859. 亲密字符串.md"> 859. 亲密字符串</a> | 2019年10月16日 | 72.94% | 90.14% 
+32 | 859 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/859. 亲密字符串.md"> 1221. 分割平衡字符串</a> | 2019年10月16日 | 72.94% | 90.14% 
+33 | 1221 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/859. 亲密字符串.md"> 1221. 分割平衡字符串</a> | 2019年10月17日 | 74.94% | 100.00% 
