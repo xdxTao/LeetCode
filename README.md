@@ -26,13 +26,13 @@
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(16/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(17/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(6/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
-📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Random(0/6)** | 📂**Line Sweep(0/3)**
-📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)**
+📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(1/159)**</a> | 📂**Line Sweep(0/3)**
+📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | 📂**Random(0/6)**
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">40</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">41</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -73,6 +73,7 @@
 35 | 475 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">二分查找</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/二分查找(TwoPointsSearch)/475. 供暖器.md"> 475. 供暖器</a> | 2019年10月19日 | 5.03% | 93.79%
 36 | 709 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/709. 转换成小写字母.md"> 709. 转换成小写字母</a> | 2019年10月19日 | 100.00% | 66.91%
 37 | 5 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/5. 最长回文子串.md"> 5. 最长回文子串</a> | 2019年10月19日 | 53.57% | 53.57%
-38 | 226 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)">>树</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)/226. 翻转二叉树.md">> 226. 翻转二叉树</a> | 2019年11月8日 | 100.00% | 39.22%
-39 | 204 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">>哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)/204. 计数质数.md">> 204. 计数质数</a> | 2019年11月19日 | 78.51% | 80.13%
-40 | 58 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">>字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/5. 最长回文子串.md.md">> 5. 最长回文子串.md</a> | 2019年11月19日 | 62.71% | 61.06%
+38 | 226 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)">树</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)/226. 翻转二叉树.md">> 226. 翻转二叉树</a> | 2019年11月8日 | 100.00% | 39.22%
+39 | 204 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)/204. 计数质数.md">> 204. 计数质数</a> | 2019年11月19日 | 78.51% | 80.13%
+40 | 58 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">>字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/58. 最后一个单词的长度.md"> 58. 最后一个单词的长度</a> | 2019年11月19日 | 62.71% | 61.06%
+41 | 633 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/633. 平方数之和.md"> 633. 平方数之和</a> | 2019年11月19日 | 80.24% | 81.88%
