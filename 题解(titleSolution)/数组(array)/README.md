@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">17</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">18</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -20,3 +20,4 @@
 15 | 766 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a> | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/766. 托普利茨矩阵.md"> 766. 托普利茨矩阵</a> | 2019年9月27日 | 100.00% | 100.00%
 16 | 665 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/665. 非递减数列.md"> 665. 非递减数列</a> | 2019年10月15日 | 5.31%| 5.31%
 17 | 605 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/605. 种花问题.md"> 605. 种花问题</a> | 2019年10月17日 | 91.35% | 92.80%
+18 | 914 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/914. 卡牌分组.md"> 914. 卡牌分组</a> | 2019年11月20日 | 100.00% | 91.28%
