@@ -25,14 +25,14 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(19/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
-📂**双指针(0/57)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(17/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(6/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
+📂**双指针(0/57)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(17/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(7/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(1/159)**</a> | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | 📂**Random(0/6)**
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">43</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">44</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -79,3 +79,4 @@
 41 | 633 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/633. 平方数之和.md"> 633. 平方数之和</a> | 2019年11月19日 | 80.24% | 81.88%
 42 | 914 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/914. 卡牌分组.md"> 914. 卡牌分组</a> | 2019年11月20日 | 100.00% | 91.28%
 43 | 840 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/840. 矩阵中的幻方.md"> 840. 矩阵中的幻方</a> | 2019年11月21日 | 83.83% | 90.79%
+44 | 686 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/686. 重复叠加字符串匹配.md"> 686. 重复叠加字符串匹配</a> | 2019年11月25日 | 34.59% | 65.99%
