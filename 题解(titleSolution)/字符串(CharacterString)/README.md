@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">8</font>/138)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">9</font>/138)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -11,3 +11,4 @@
 6 | 58 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/58. 最后一个单词的长度.md"> 58. 最后一个单词的长度</a> | 2019年11月19日 | 62.71% | 61.06%
 7 | 686 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/686. 重复叠加字符串匹配.md"> 686. 重复叠加字符串匹配</a> | 2019年11月25日 | 34.59% | 65.99%
 8 | 434 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/434. 字符串中的单词数.md"> 434. 字符串中的单词数</a> | 2019年11月28日 | 100.00% | 73.03%
+9 | 125 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/125. 验证回文串.md"> 125. 验证回文串</a> | 2019年12月3日 | 100.00% | 95.60%
