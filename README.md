@@ -32,14 +32,14 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(23/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
-📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(10/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
+📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(11/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(3/159)**</a> | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | 
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">53</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">54</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -96,3 +96,4 @@
 51 | 125 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/125. 验证回文串.md"> 125. 验证回文串</a> | 2019年12月3日 | 100.00% | 95.60%
 52 | 680 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/680. 验证回文字符串 Ⅱ.md"> 680. 验证回文字符串 Ⅱ</a> | 2019年12月3日 | 99.70% | 92.37%
 53 | 941 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/941. 有效的山脉数组.md"> 941. 有效的山脉数组</a> | 2019年12月3日 | 9.22% | 92.20%
+54 | 14 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/14. 最长公共前缀.md"> 14. 最长公共前缀</a> | 2019年12月4日 | 50.77% | 73.56%
