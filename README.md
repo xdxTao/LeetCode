@@ -44,7 +44,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">58</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">57</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -103,6 +103,5 @@
 53 | 941 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/941. 有效的山脉数组.md"> 941. 有效的山脉数组</a> | 2019年12月3日 | 9.22% | 92.20%
 54 | 14 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/14. 最长公共前缀.md"> 14. 最长公共前缀</a> | 2019年12月4日 | 50.77% | 73.56%
 55 | 724 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/724. 寻找数组的中心索引.md"> 724. 寻找数组的中心索引</a> | 2019年12月4日 | 5.05% | 38.36%
-56 | 724 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/724. 寻找数组的中心索引.md"> 724. 寻找数组的中心索引</a> | 2019年12月4日 | 5.05% | 38.36%
-57 | 168 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/168. Excel表列名称.md"> 168. Excel表列名称</a> | 2019年12月4日 | 22.56% | 83.37%
-58 | 182 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/182. 查找重复的电子邮箱.md"> 182. 查找重复的电子邮箱</a> | 2019年12月4日 | 43.27% | 100.00%
+56 | 168 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/168. Excel表列名称.md"> 168. Excel表列名称</a> | 2019年12月4日 | 22.56% | 83.37%
+57 | 182 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/182. 查找重复的电子邮箱.md"> 182. 查找重复的电子邮箱</a> | 2019年12月4日 | 43.27% | 100.00%
