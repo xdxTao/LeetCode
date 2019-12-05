@@ -34,7 +34,7 @@
 📂**位运算(0/34)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)">**树(1/118)**</a> | 📂**深度优先算法(0/106)** | 📂**广度优先算法(0/51)**
 📂**并查集(0/27)** | 📂**图(0/34)** | 📂**设计(0/40)** | 📂**拓扑排序(0/5)**
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | 📂**脑筋急转弯(0/4)** | 📂**记忆化(0/1)** | 📂**队列(0/9)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(24/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(11/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
@@ -44,7 +44,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">58</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">59</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -106,3 +106,4 @@
 56 | 168 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/168. Excel表列名称.md"> 168. Excel表列名称</a> | 2019年12月4日 | 22.56% | 83.37%
 57 | 182 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/182. 查找重复的电子邮箱.md"> 182. 查找重复的电子邮箱</a> | 2019年12月4日 | 43.27% | 100.00%
 58 | 595 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/595. 大的国家.md">595. 大的国家</a> | 2019年12月5日 | 51.15% | 100.00%
+59 | 1033 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">脑筋急转弯</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)/1033. 移动石子直到连续.md">1033. 移动石子直到连续</a> | 2019年12月5日 | 99.66% | 100.00%
