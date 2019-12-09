@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">25</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">26</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -28,3 +28,4 @@
 23 | 941 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/941. 有效的山脉数组.md"> 941. 有效的山脉数组</a> | 2019年12月3日 | 9.22% | 92.20%
 24 | 724 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/724. 寻找数组的中心索引.md"> 724. 寻找数组的中心索引</a> | 2019年12月4日 | 5.05% | 38.36%
 25 | 643 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/643. 子数组最大平均数 I.md">643. 子数组最大平均数 I</a> | 2019年12月9日 | 38.40% | 93.48%
+26 | 219 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/219. 存在重复元素 II.md">219. 存在重复元素 II</a> | 2019年12月9日 | 6.12% | 92.49%
