@@ -39,12 +39,12 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(26/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(12/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(6/159)**</a> | 📂**Line Sweep(0/3)**
-📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(5/86)**</a>
+📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(6/86)**</a>
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">67</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">68</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -115,3 +115,4 @@
 65 | 175 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/175. 组合两个表.md">175. 组合两个表</a> | 2019年12月10日 | 5.00% | 100.00%
 66 | 69 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/69. x 的平方根.md">69. x 的平方根</a> | 2019年12月10日 | 100.00% | 75.21%
 67 | 819 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/819. 最常见的单词.md">819. 最常见的单词</a> | 2019年12月10日 | 81.82% | 98.40%
+68 | 181 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/181. 超过经理收入的员工.md">181. 超过经理收入的员工</a> | 2019年12月11日 | 41.40% | 100.00%
