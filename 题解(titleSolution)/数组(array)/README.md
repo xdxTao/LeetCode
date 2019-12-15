@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">27</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">28</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -30,3 +30,4 @@
 25 | 643 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/643. 子数组最大平均数 I.md">643. 子数组最大平均数 I</a> | 2019年12月9日 | 38.40% | 93.48%
 26 | 219 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/219. 存在重复元素 II.md">219. 存在重复元素 II</a> | 2019年12月9日 | 6.12% | 92.49%
 27 | 849 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/849. 到最近的人的最大距离.md">849. 到最近的人的最大距离</a> | 2019年12月11日 | 68.18% | 93.75%
+28 | 747 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/747. 至少是其他数字两倍的最大数.md">747. 至少是其他数字两倍的最大数</a> | 2019年12月15日 | 99.84% | 84.76%
