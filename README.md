@@ -36,7 +36,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(29/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(3/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(29/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(4/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(15/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(1/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(10/159)**</a> | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(9/86)**</a>
@@ -44,7 +44,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">82</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">83</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -129,4 +129,5 @@
 79 | 28 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/28. 实现 strStr().md">28. 实现 strStr()</a> | 2019年12月18日 | 52.17% | 39.20%
 80 | 645 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/645. 错误的集合.md">645. 错误的集合</a> | 2019年12月19日 | 20.55% | 95.14%
 81 | 441 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/441. 排列硬币.md">441. 排列硬币</a> | 2019年12月20日 | 45.67% | 75.35%
-82 | 703 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">堆</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/703. 数据流中的第K大元素.md"> 703. 数据流中的第K大元素</a> | 2019年12月23日 | 9.09%| 15.33%
+82 | 703 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">堆</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/703. 数据流中的第K大元素.md"> 703. 数据流中的第K大元素</a> | 2019年12月23日 | 9.09% | 15.33%
+83 | 290 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/哈希表(Hashtable)/290. 单词规律.md"> 290. 单词规律</a> | 2019年12月27日 | 100.00% | 36.31%
