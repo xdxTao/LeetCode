@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">9</font>/86)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">10</font>/86)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -12,3 +12,4 @@
 7 | 1179 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/1179. 重新格式化部门表.md">1179. 重新格式化部门表</a> | 2019年12月12日 | 5.11% | 100.00%
 8 | 183 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/183. 从不订购的客户.md">183. 从不订购的客户</a> | 2019年12月13日 | 47.87%| 100.00%
 9 | 196 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)/196. 删除重复的电子邮箱.md">196. 删除重复的电子邮箱</a> | 2019年12月16日 | 35.79%| 100.00%
+10 | 176 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数据库(DataBase)/176. 第二高的薪水.md"> 176. 第二高的薪水</a> | 2020年1月3日 | 5.02% | 100.00%
