@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">31</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">33</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -35,3 +35,4 @@
 30 | 66 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/66. 加一.md"> 66. 加一</a> | 2019年12月30日 | 100.00% | 37.71%
 31 | 1010 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/1010. 总持续时间可被 60 整除的歌曲.md">1010. 总持续时间可被 60 整除的歌曲</a> | 2020年1月1日 | 68.61% | 84.53%
 32 | 989 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/989. 数组形式的整数加法.md">989. 数组形式的整数加法</a> | 2020年1月2日 | 16.84% | 96.96%
+33 | 674 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数据库(DataBase)/674. 最长连续递增序列.md">674. 最长连续递增序列</a> | 2020年1月5日 | 100.00%  | 94.56%
