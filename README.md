@@ -37,7 +37,7 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | 📂**链表(6/36)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(34/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(5/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
-📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(15/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(2/72)**</a> | 📂**分治算法(0/18)**
+📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(15/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(3/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(10/159)**</a> | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Ordered Map(0/11)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a>
 
@@ -141,3 +141,4 @@
 91 | 197 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">数据库</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数据库(DataBase)/197. 上升的温度.md"> 197. 上升的温度</a> | 2020年1月3日 | 22.93% | 100.00%
 92 | 674 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/674. 最长连续递增序列.md">674. 最长连续递增序列</a> | 2020年1月5日 | 100.00%  | 94.56%
 93 | 1018 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/1018. 可被 5 整除的二进制前缀.md">1018. 可被 5 整除的二进制前缀</a> | 2020年1月7日 | 15.78%  | 93.75%
+94 | 744 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">二分查找</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/二分查找(TwoPointsSearch)/744. 寻找比目标字母大的最小字母.md">744. 寻找比目标字母大的最小字母</a> | 2020年1月8日 | 100.00%  | 97.13%
