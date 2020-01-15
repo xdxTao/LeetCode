@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">34</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">35</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -37,3 +37,4 @@
 32 | 989 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/989. 数组形式的整数加法.md">989. 数组形式的整数加法</a> | 2020年1月2日 | 16.84% | 96.96%
 33 | 674 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数据库(DataBase)/674. 最长连续递增序列.md">674. 最长连续递增序列</a> | 2020年1月5日 | 100.00%  | 94.56%
 34 | 1018 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/1018. 可被 5 整除的二进制前缀.md">1018. 可被 5 整除的二进制前缀</a> | 2020年1月7日 | 15.78%  | 93.75%
+35 | 35 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/数组(array)/35. 搜索插入位置"> 35. 搜索插入位置</a> | 2020年1月15日 | 100.00% | 73.10%
