@@ -39,6 +39,12 @@
 > 这几天陆陆续续的做了几个中阶问题，发现其实并不是中阶问题很难。
 而且每个中阶问题不在和初阶问题一样了，只需要思考怎么做，而中阶问题基本都关联了某种算法。
 所以后期将边学习各种算法边刷题了，再这种直接上我刷题，我已经刷不动了。
+
+<br/>
+
+**2020年3月11日**
+> 一个多月没刷了，现在终于忙完了手头的事情，尽量保持2天一题吧哈哈
+现在尝试再B站上发布视频讲解。
  
 ### 💼标签
 
@@ -50,7 +56,7 @@
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(1/14)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(13/159)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(41/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(7/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(42/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(7/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(6/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(17/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(4/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Ordered Map(0/11)** | 📂**Line Sweep(0/3)**
 📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a>
@@ -58,7 +64,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">109</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">110</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -171,3 +177,4 @@
 107 | 59 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/59. 螺旋矩阵 II"> 59. 螺旋矩阵 II</a> | 2020年1月22日 | 100.00% | 55.97%
 108 | 54 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/54. 螺旋矩阵"> 54. 螺旋矩阵</a> | 2020年1月22日 | 10.77% | 57.79%
 109 | 950 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/950. 按递增顺序显示卡牌"> 950. 按递增顺序显示卡牌</a> | 2020年1月23日 | 92.07% | 32.02%
+110 | 1013 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/1013. 将数组分成和相等的三个部分"> 1013. 将数组分成和相等的三个部分</a> | 2020年3月11日 | 7.98% | 99.15%

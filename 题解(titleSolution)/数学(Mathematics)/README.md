@@ -1,5 +1,9 @@
 
 ### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">13</font>/159)
+
+
+\# | L# | 标签 | 题目 | 时间 | tO | sO
+ :-: | :-: | :-: | :-: |:-: |:-: |:-:
 1 | 633 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/633. 平方数之和.md"> 633. 平方数之和</a> | 2019年11月19日 | 80.24% | 81.88%
 2 | 7 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/7. 整数反转.md"> 7. 整数反转</a> | 2019年12月2日 | 47.34%| 78.85%
 3 | 949 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">数学</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)/949. 给定数字能组成的最大时间.md"> 949. 给定数字能组成的最大时间</a> | 2019年12月2日 | 100.00%| 92.65%
