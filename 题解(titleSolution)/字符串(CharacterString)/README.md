@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">18</font>/138)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">19</font>/138)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -21,3 +21,4 @@
 16 | 459 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/字符串(CharacterString)/459. 重复的子字符串.md"> 459. 重复的子字符串</a> | 2020年1月14日 | 21.88% | 96.03%
 17 | 925 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/925. 长按键入.md"> 925. 长按键入</a> | 2020年1月16日 | 7.27% | 49.21%
 18 | 1071 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/1071. 字符串的最大公因子.md"> 1071. 字符串的最大公因子</a> | 2020年3月12日 | 21.30% | 5.60%
+19 | 面试题 01.06 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">字符串</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)/面试题 01.06. 字符串压缩.md"> 面试题 01.06. 字符串压缩</a> | 2020年3月16日 | 88.28% | 100.00%
