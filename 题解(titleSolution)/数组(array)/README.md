@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">43</font>/189)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">44</font>/189)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -46,3 +46,4 @@
 41 | 950 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/950. 按递增顺序显示卡牌"> 950. 按递增顺序显示卡牌</a> | 2020年1月23日 | 92.07% | 32.02%
 42 | 1013 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/1013. 将数组分成和相等的三个部分"> 1013. 将数组分成和相等的三个部分</a> | 2020年3月11日 | 7.98% | 99.15%
 43 | 1329 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/1329. 将矩阵按对角线排序"> 1329. 将矩阵按对角线排序</a> | 2020年3月12日 | 11.54% | 100.00%
+44 | 289 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/289. 生命游戏"> 289. 生命游戏</a> | 2020年3月17日 | 100.00% | 5.24%
