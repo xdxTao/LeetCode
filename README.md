@@ -49,7 +49,7 @@
 ### 💼标签
 
 
-| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">📂栈(3/50)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">📂堆(3/34)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(1/36)</a>
+| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">📂栈(4/50)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">📂堆(3/34)</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂贪心算法(0/59)</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/排序(Sort)">排序(1/36)</a>
 :- | :- | :- | :-
 📂**位运算(0/34)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)">**树(1/118)**</a> | 📂**深度优先算法(0/106)** | 📂**广度优先算法(0/51)**
 📂**并查集(0/27)** | 📂**图(0/34)** | 📂**设计(0/40)** | 📂**拓扑排序(0/5)**
@@ -64,7 +64,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">121</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">122</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -189,3 +189,4 @@
 119 | 409 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">哈希表</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/哈希表(Hashtable)/409. 最长回文串.md">409. 最长回文串</a> | 2020年3月19日 | 22.81%  | 5.25%
 120 | 面试题40 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/堆(Heap)">堆</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/面试题40. 最小的k个数.md"> 面试题40. 最小的k个数</a> | 2020/3/20 | 57.05% | 100.00%
 121 | 面试题16.10 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">数组</a>  |<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)/面试题 16.10. 生存人数">面试题 16.10. 生存人数</a> | 2020/3/28 | 5.02% | 100.00%
+122 | 1381 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1381. 设计一个支持增量操作的栈.md"> 1381. 设计一个支持增量操作的栈</a> | 2020/4/13 | 20.67% | 100.00%
