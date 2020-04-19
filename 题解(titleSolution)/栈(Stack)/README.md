@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">5</font>/50)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">6</font>/50)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -8,3 +8,4 @@
 3 | 682 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/682. 棒球比赛.md"> 682. 棒球比赛</a> | 2019/9/25 | 90.23% | 90.23%
 4 | 1381 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/1381. 设计一个支持增量操作的栈.md"> 1381. 设计一个支持增量操作的栈</a> | 2020/4/13 | 20.67% | 100.00%
 5 | 921 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/921. 使括号有效的最少添加.md"> 921. 使括号有效的最少添加</a> | 2020/4/16 | 49.30% | 100.00%
+6 | 739 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/栈(Stack)">栈</a>  | <a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/栈(Stack)/739. 每日温度.md"> 739. 每日温度</a> | 2020/4/19 | 10.60% | 6.45%
