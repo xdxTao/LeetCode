@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">5</font>/14)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">6</font>/14)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -8,3 +8,4 @@
 3 | 783 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/783. 二叉搜索树节点最小距离.md"> 783. 二叉搜索树节点最小距离</a> | 2020/5/1 | 13.95% | 50.00%
 4 | 面试题 17.12 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题 17.12. BiNode.md"> 面试题 17.12. BiNode</a> | 2020/5/2 | 72.64% | 100.00%
 5 | 面试题10- II. 青蛙跳台阶问题 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题10- II. 青蛙跳台阶问题.md"> 面试题 17.12. BiNode</a> | 2020/5/3 |  | 
+6 | 687. 最长同值路径 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/687. 最长同值路径.md"> 687. 最长同值路径</a> | 2020/5/4 | 12.10% | 18.20%

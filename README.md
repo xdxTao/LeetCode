@@ -54,7 +54,7 @@
 📂**位运算(0/34)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/树(tree)">**树(1/118)**</a> | 📂**深度优先算法(0/106)** | 📂**广度优先算法(0/51)**
 📂**并查集(0/27)** | 📂**图(0/34)** | 📂**设计(0/40)** | 📂**拓扑排序(0/5)**
 📂**字典树(0/17)** | 📂**树状数组(0/6)** | 📂**线段树(0/10)** | 📂**二叉搜索树(0/1)**
-📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(5/14)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(13/159)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
+📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">**递归(6/14)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数学(Mathematics)">📂**数学(13/159)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/脑筋急转弯(BrainTwists)">📂**脑筋急转弯(1/4)**</a> | 📂**记忆化(0/1)** | 📂**队列(0/9)**
 📂**极小化极大(0/8)** | 📂**蓄水池抽样(0/2)** | 📂**几何(0/3)** | 📂**Map(0/0)**
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(49/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(9/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(14/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(19/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(4/72)**</a> | 📂**分治算法(0/18)**
@@ -64,7 +64,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">137</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">138</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -205,3 +205,4 @@
 135 | 783 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/783. 二叉搜索树节点最小距离.md"> 783. 二叉搜索树节点最小距离</a> | 2020/5/1 | 13.95% | 50.00%
 136 | 面试题 17.12 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题 17.12. BiNode.md"> 面试题 17.12. BiNode</a> | 2020/5/2 | 72.64% | 100.00%
 137 | 面试题10- II. 青蛙跳台阶问题 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题10- II. 青蛙跳台阶问题.md"> 面试题 17.12. BiNode</a> | 2020/5/3 |  | 
+138 | 687. 最长同值路径 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/687. 最长同值路径.md"> 687. 最长同值路径</a> | 2020/5/4 | 12.10% | 18.20%
