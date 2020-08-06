@@ -43,8 +43,13 @@
 <br/>
 
 **2020/3/11**
-> 一个多/没刷了，现在终于忙完了手头的事情，尽量保持2天一题吧哈哈
+> 一个多月没刷了，现在终于忙完了手头的事情，尽量保持2天一题吧哈哈
 现在尝试再B站上发布视频讲解。
+
+<br/>
+
+**2020/8/6**
+>正式工作一个月了，差不多都稳定下来了，继续刷题
  
 ### 💼标签
 
@@ -64,7 +69,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">138</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">140</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -207,3 +212,4 @@
 137 | 面试题10- II. 青蛙跳台阶问题 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题10- II. 青蛙跳台阶问题.md"> 面试题 17.12. BiNode</a> | 2020/5/3 |  | 
 138 | 687. 最长同值路径 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/687. 最长同值路径.md"> 687. 最长同值路径</a> | 2020/5/4 | 12.10% | 18.20%
 139 | 面试题 16.11. 跳水板 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/递归(Recursion)">递归</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/递归(Recursion)/面试题 16.11. 跳水板.md"> 面试题 16.11. 跳水板</a> | 2020/5/7 | 94.64% | 100.00%
+140 | 剑指 Offer 58 - II. |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">堆</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 58 - II. 左旋转字符串.md"> 剑指 Offer 58 - II. 左旋转字符串</a> | 2020/8/6 | 31.55% | 54.92%
