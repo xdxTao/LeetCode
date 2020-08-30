@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">4</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">5</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -7,3 +7,4 @@
 2 | 剑指 Offer 55 - I. 二叉树的深度 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 55 - I. 二叉树的深度.md"> 剑指 Offer 55 - I. 二叉树的深度</a> | 2020/8/17 | 100.00% | 12.77%
 3 | 剑指 Offer 27. 二叉树的镜像 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 27. 二叉树的镜像.md"> 剑指 Offer 27. 二叉树的镜像</a> | 2020/8/29 | 100.00% | 37.20%
 4 | 剑指 Offer 17. 打印从1到最大的n位数 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 17. 打印从1到最大的n位数.md"> 剑指 Offer 17. 打印从1到最大的n位数</a> | 2020/8/30 | 70.00% | 67.20%
+5 | 剑指 Offer 05. 替换空格 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 05. 替换空格.md"> 剑指 Offer 05. 替换空格</a> | 2020/8/30 | 100.00% | 47.20%

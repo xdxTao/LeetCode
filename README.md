@@ -64,7 +64,7 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(49/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(9/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(14/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(19/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(4/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Ordered Map(0/11)** | 📂**Line Sweep(0/3)**
-📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(4/75)**</a>
+📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(5/75)**</a>
 
 
 <br/>
@@ -216,3 +216,4 @@
 141 | 剑指 Offer 55 - I. 二叉树的深度 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 55 - I. 二叉树的深度.md"> 剑指 Offer 55 - I. 二叉树的深度</a> | 2020/8/17 | 100.00% | 12.77%
 142 | 剑指 Offer 27. 二叉树的镜像 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 27. 二叉树的镜像.md"> 剑指 Offer 27. 二叉树的镜像</a> | 2020/8/29 | 100.00% | 37.20%
 143 | 剑指 Offer 17. 打印从1到最大的n位数 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 17. 打印从1到最大的n位数.md"> 剑指 Offer 17. 打印从1到最大的n位数</a> | 2020/8/30 | 70.00% | 67.20%
+144 | 剑指 Offer 05. 替换空格 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/堆(Heap)/剑指 Offer 05. 替换空格.md"> 剑指 Offer 05. 替换空格</a> | 2020/8/30 | 100.00% | 47.20%
