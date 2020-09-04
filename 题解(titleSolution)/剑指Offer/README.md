@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">16</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">17</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -19,3 +19,4 @@
 14 | 剑指 Offer 39. 数组中出现次数超过一半的数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 39. 数组中出现次数超过一半的数字.md"> 剑指 Offer 39. 数组中出现次数超过一半的数字</a> | 2020/9/4 | 74.37% | 44.54%
 15 | 剑指 Offer 03. 数组中重复的数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 03. 数组中重复的数字.md"> 剑指 Offer 03. 数组中重复的数字</a> | 2020/9/4 | 16.50% | 28.67%
 16 | 剑指 Offer 57. 和为s的两个数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 57. 和为s的两个数字.md"> 剑指 Offer 57. 和为s的两个数字</a> | 2020/9/4 | 6.93% | 14.27%
+17 | 剑指 Offer 32 - I. 从上到下打印二叉树 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 32 - I. 从上到下打印二叉树.md"> 剑指 Offer 32 - I. 从上到下打印二叉树</a> | 2020/9/4 | 99.83% | 7.42%
