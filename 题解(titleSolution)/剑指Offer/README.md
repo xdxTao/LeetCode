@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">13</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">14</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -16,3 +16,4 @@
 11 | 剑指 Offer 57 - II. 和为s的连续正数序列 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 57 - II. 和为s的连续正数序列.md"> 剑指 Offer 57 - II. 和为s的连续正数序列</a> | 2020/9/1 | 5.26% | 7.48%
 12 | 剑指 Offer 56 - II. 数组中数字出现的次数 II |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 56 - II. 数组中数字出现的次数 II.md"> 剑指 Offer 56 - II. 数组中数字出现的次数 II</a> | 2020/9/2 | 9.65% | 24.90%
 13 | 剑指 Offer 32 - II. 从上到下打印二叉树 II |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 32 - II. 从上到下打印二叉树 II.md"> 剑指 Offer 32 - II. 从上到下打印二叉树 II</a> | 2020/9/2 | 93.62% | 9.18%
+14 | 剑指 Offer 39. 数组中出现次数超过一半的数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 39. 数组中出现次数超过一半的数字.md"> 剑指 Offer 39. 数组中出现次数超过一半的数字</a> | 2020/9/4 | 74.37% | 44.54%
