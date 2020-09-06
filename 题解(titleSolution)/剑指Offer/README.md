@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">17</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">19</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -20,3 +20,5 @@
 15 | 剑指 Offer 03. 数组中重复的数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 03. 数组中重复的数字.md"> 剑指 Offer 03. 数组中重复的数字</a> | 2020/9/4 | 16.50% | 28.67%
 16 | 剑指 Offer 57. 和为s的两个数字 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 57. 和为s的两个数字.md"> 剑指 Offer 57. 和为s的两个数字</a> | 2020/9/4 | 6.93% | 14.27%
 17 | 剑指 Offer 32 - I. 从上到下打印二叉树 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 32 - I. 从上到下打印二叉树.md"> 剑指 Offer 32 - I. 从上到下打印二叉树</a> | 2020/9/4 | 99.83% | 7.42%
+18 | 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.md"> 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面</a> | 2020/9/5 | 99.74% | 65.14%
+19 | 剑指 Offer 52. 两个链表的第一个公共节点 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 52. 两个链表的第一个公共节点.md"> 剑指 Offer 52. 两个链表的第一个公共节点</a> | 2020/9/6 | 5.03% | 11.88%
