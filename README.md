@@ -64,12 +64,12 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(49/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(9/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(14/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(19/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(4/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Ordered Map(0/11)** | 📂**Line Sweep(0/3)**
-📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(20/75)**</a>
+📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(21/75)**</a>
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">159</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">160</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -232,3 +232,4 @@
 157 | 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.md"> 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面</a> | 2020/9/5 | 99.74% | 65.14%
 158 | 剑指 Offer 52. 两个链表的第一个公共节点 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 52. 两个链表的第一个公共节点.md"> 剑指 Offer 52. 两个链表的第一个公共节点</a> | 2020/9/6 | 5.03% | 11.88%
 159 | 剑指 Offer 63. 股票的最大利润 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 63. 股票的最大利润.md"> 剑指 Offer 63. 股票的最大利润</a> | 2020/9/6 | 99.00% | 76.43%
+160 | 剑指 Offer 50. 第一个只出现一次的字符 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 50. 第一个只出现一次的字符.md"> 剑指 Offer 50. 第一个只出现一次的字符</a> | 2020/9/10 | 5.06% | 59.81%

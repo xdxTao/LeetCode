@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">20</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">21</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -23,3 +23,4 @@
 18 | 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.md"> 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面</a> | 2020/9/5 | 99.74% | 65.14%
 19 | 剑指 Offer 52. 两个链表的第一个公共节点 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 52. 两个链表的第一个公共节点.md"> 剑指 Offer 52. 两个链表的第一个公共节点</a> | 2020/9/6 | 5.03% | 11.88%
 20 | 剑指 Offer 63. 股票的最大利润 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 63. 股票的最大利润.md"> 剑指 Offer 63. 股票的最大利润</a> | 2020/9/6 | 99.00% | 76.43%
+21 | 剑指 Offer 50. 第一个只出现一次的字符 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 50. 第一个只出现一次的字符.md"> 剑指 Offer 50. 第一个只出现一次的字符</a> | 2020/9/10 | 5.06% | 59.81%
