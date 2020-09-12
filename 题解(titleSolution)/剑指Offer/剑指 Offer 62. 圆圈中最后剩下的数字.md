@@ -4,6 +4,10 @@
 
 <br/>
 
+B站视频: [https://www.bilibili.com/video/BV1pZ4y1N7bJ](https://www.bilibili.com/video/BV1pZ4y1N7bJ)
+
+<br/>
+
 ## 题解
 
 ```java
