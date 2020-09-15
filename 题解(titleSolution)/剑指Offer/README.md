@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">26</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">27</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -29,3 +29,4 @@
 24 | 剑指 Offer 32 - III |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 32 - III. 从上到下打印二叉树 III.md"> 剑指 Offer 32 - III. 从上到下打印二叉树 III</a> | 2020/9/14 | 99.79% | 5.28%
 25 | 剑指 Offer 66 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 66. 构建乘积数组.md"> 剑指 Offer 66. 构建乘积数组</a> | 2020/9/14 |  | 
 26 | 剑指 Offer 55 - II |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 55 - II. 平衡二叉树.md"> 剑指 Offer 55 - II. 平衡二叉树</a> | 2020/9/15 | 99.96% | 25.17%
+27 | 剑指 Offer 53 - I|  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 53 - I. 在排序数组中查找数字 I.md"> 剑指 Offer 53 - I. 在排序数组中查找数字 I</a> | 2020/9/15 | 29.54% | 43.73%
