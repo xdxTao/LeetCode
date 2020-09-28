@@ -64,12 +64,12 @@
 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数组(array)">**数组(49/189)**</a> | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/哈希表(Hashtable)">**哈希表(9/113)** </a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/贪心算法(GreedyAlgorithm)">📂**链表(14/36)**</a>  | 📂**数字(0/142)**
 📂**双指针(0/57)** | 📂**Random(0/6)** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/字符串(CharacterString)">**字符串(19/138) </a>** | 📂<a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/二分查找(TwoPointsSearch)">**二分查找(4/72)**</a> | 📂**分治算法(0/18)**
 📂**动态规划(0/149)** | 📂**回溯算法(0/45)** | 📂**Ordered Map(0/11)** | 📂**Line Sweep(0/3)**
-📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(29/75)**</a>
+📂**Sliding Window(0/19)** | 📂**Rejection Sampling(0/2)** | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/数据库(DataBase)">📂**数据库(12/86)**</a> | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">📂**剑指Offer(31/75)**</a>
 
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">169</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">170</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -242,3 +242,4 @@
 167 | 剑指 Offer 34   <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 34. 二叉树中和为某一值的路径.md"> 剑指 Offer 34. 二叉树中和为某一值的路径</a> | 2020/9/16 | 9.76% | 5.03%
 168 | 剑指 Offer 36 <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 36. 二叉搜索树与双向链表.md"> 剑指 Offer 36. 二叉搜索树与双向链表</a> | 2020/9/17 | 18.97% | 24.50%
 169 | 剑指 Offer 09 <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 09. 用两个栈实现队列.md"> 剑指 Offer 09. 用两个栈实现队列</a> | 2020/9/27 | 95.07% | 26.94%
+170 | 剑指 Offer 58 <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 58 - I. 翻转单词顺序.md"> 剑指 Offer 58 - I. 翻转单词顺序</a> | 2020/9/28 | 65.14% | 79.48%
