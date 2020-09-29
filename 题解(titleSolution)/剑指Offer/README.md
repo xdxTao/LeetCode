@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">31</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">32</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -34,4 +34,5 @@
 29 | 剑指 Offer 36 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 36. 二叉搜索树与双向链表.md"> 剑指 Offer 36. 二叉搜索树与双向链表</a> | 2020/9/17 | 18.97% | 24.50%
 30 | 剑指 Offer 09 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 09. 用两个栈实现队列.md"> 剑指 Offer 09. 用两个栈实现队列</a> | 2020/9/27 | 95.07% | 26.94%
 31 | 剑指 Offer 58 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 58 - I. 翻转单词顺序.md"> 剑指 Offer 58 - I. 翻转单词顺序</a> | 2020/9/28 | 65.14% | 79.48%
+32 | 剑指 Offer 53 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 53 - II. 0～n-1中缺失的数字.md"> 剑指 Offer 53 - II. 0～n-1中缺失的数字</a> | 2020/9/29 | 100.00% | 93.41%
 
