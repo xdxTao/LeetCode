@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">33</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">34</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -36,3 +36,4 @@
 31 | 剑指 Offer 58 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 58 - I. 翻转单词顺序.md"> 剑指 Offer 58 - I. 翻转单词顺序</a> | 2020/9/28 | 65.14% | 79.48%
 32 | 剑指 Offer 53 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 53 - II. 0～n-1中缺失的数字.md"> 剑指 Offer 53 - II. 0～n-1中缺失的数字</a> | 2020/9/29 | 100.00% | 93.41%
 33 | 剑指 Offer 59 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 59 - I. 滑动窗口的最大值.md"> 剑指 Offer 59 - I. 滑动窗口的最大值</a> | 2020/9/29 | 21.07% | 95.31%
+34 | 剑指 Offer 29 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 29. 顺时针打印矩阵.md"> 剑指 Offer 29. 顺时针打印矩阵</a> | 2020/9/30 | 21.07% | 95.31%
