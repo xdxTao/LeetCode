@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">35</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">36</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -38,3 +38,4 @@
 33 | 剑指 Offer 59 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 59 - I. 滑动窗口的最大值.md"> 剑指 Offer 59 - I. 滑动窗口的最大值</a> | 2020/9/29 | 21.07% | 95.31%
 34 | 剑指 Offer 29 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 29. 顺时针打印矩阵.md"> 剑指 Offer 29. 顺时针打印矩阵</a> | 2020/9/30 | 21.07% | 95.31%
 35 | 剑指 Offer 61 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 61. 扑克牌中的顺子.md"> 剑指 Offer 61. 扑克牌中的顺子</a> | 2020/9/30 | 91.25% | 63.01%
+36 | 剑指 Offer 11 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 11. 旋转数组的最小数字.md"> 剑指 Offer 11. 旋转数组的最小数字</a> | 2020/10/4 | 100.00% | 14.90%
