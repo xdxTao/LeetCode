@@ -1,5 +1,5 @@
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">38</font>/75)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">40</font>/75)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -41,3 +41,5 @@
 36 | 剑指 Offer 11 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 11. 旋转数组的最小数字.md"> 剑指 Offer 11. 旋转数组的最小数字</a> | 2020/10/4 | 100.00% | 14.90%
 37 | 剑指 Offer 28 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 28. 对称的二叉树.md"> 剑指 Offer 28. 对称的二叉树</a> | 2020/10/6 | 29.00% | 14.90%
 38 | 剑指 Offer 56  | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 56 - I. 数组中数字出现的次数.md"> 剑指 Offer 56 - I. 数组中数字出现的次数</a> | 2020/10/7 | 5.01% | 14.90%
+39 | 剑指 Offer 31 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 31. 栈的压入、弹出序列.md"> 剑指 Offer 31. 栈的压入、弹出序列</a> | 2020/10/7 | 10.01% | 84.90%
+40 | 剑指 Offer 59 - II| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 59 - II. 队列的最大值.md"> 剑指 Offer 59 - II. 队列的最大值</a> | 2020/10/13 | 55.12% | 69.68%
