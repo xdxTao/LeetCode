@@ -50,6 +50,13 @@
 
 **2020/8/6**
 >正式工作一个月了，差不多都稳定下来了，继续刷题
+
+<br/>
+
+**2021/3/31**
+>工作九个月了，也该开启下一步的计划了。<br/>
+刷这些题花费了不少时间，我一直觉得有些东西应该看长远的结果，但这个好像有点太长了。<br/>
+不过也无妨，看着题解也算是自我安慰吧，不刷又感觉过意不去。
  
 ### 💼标签
 
@@ -69,7 +76,7 @@
 
 <br/>
 
-### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">179</font>/1174)
+### <font color="green">✔</font> 刷题&nbsp;&nbsp;&nbsp;&nbsp;(<font color="red">180</font>/1174)
 
 \# | L# | 标签 | 题目 | 时间 | tO | sO
  :-: | :-: | :-: | :-: |:-: |:-: |:-:
@@ -252,3 +259,4 @@
 177 | 剑指 Offer 56  | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 56 - I. 数组中数字出现的次数.md"> 剑指 Offer 56 - I. 数组中数字出现的次数</a> | 2020/10/7 | 5.01% | 14.90%
 178 | 剑指 Offer 31 | <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 31. 栈的压入、弹出序列.md"> 剑指 Offer 31. 栈的压入、弹出序列</a> | 2020/10/7 | 10.01% | 84.90%
 179 | 剑指 Offer 59 - II| <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/剑指Offer">剑指Offer</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/剑指Offer/剑指 Offer 59 - II. 队列的最大值.md"> 剑指 Offer 59 - II. 队列的最大值</a> | 2020/10/13 | 55.12% | 69.68%
+180 | 面试题 16.01 |  <a href="https://github.com/xdxTao/LeetCode/tree/master/题解(titleSolution)/程序员面试金典">程序员面试金典</a>  |<a href="https://github.com/xdxTao/LeetCode/blob/master/题解(titleSolution)/程序员面试金典/面试题 16.01. 交换数字.md"> 面试题 16.01. 交换数字</a> | 2021年03月31日 | 100.00% | 23.18%
